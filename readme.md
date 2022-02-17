@@ -4,6 +4,8 @@ Simple Todos on Board API The assignment involves the creation of a Todo on diff
 
 ## Todos on Board API: 
 We want to create RESTful APIs for a simple Todo management application. The APIs will perform CRUD operation for Todos and Boards. Todos are organized in boards, on every board there can be multiple Todos. A Todo contains a title (str), done (bool), a created (datetime) and updated (datetime) timestamp. A board has a name (str).
+![Many to One](https://user-images.githubusercontent.com/13376802/154441663-04b7070e-0799-4e97-8ca7-a74bbfd70bb7.png)
+
 
 Via a REST API it must be possible to:
 - List all boards
