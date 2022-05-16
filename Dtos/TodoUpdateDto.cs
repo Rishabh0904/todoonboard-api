@@ -7,7 +7,6 @@ namespace todoonboard_api.Dtos{
         
         public string Title{get; set;}
 
-        public bool Done{get; set;}
     }
     
 
